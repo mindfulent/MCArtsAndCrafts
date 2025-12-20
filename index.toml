@@ -6,11 +6,11 @@ hash = "1270667af129ad33c14dd6816d97ce7b4f609db2c4f0a444caa429b1385bb8f7"
 
 [[files]]
 file = "CLAUDE.md"
-hash = "37b3b161672e4bd985b6d92a4686cf038abcac834442ea4308cbc6a5bef5703a"
+hash = "d3f2ddad5271580f19b31bed47df929e6c790b0e0b67294994317d6d884409b2"
 
 [[files]]
 file = "README.md"
-hash = "e0677a59b2ca4d69a6d49b95073676acadec5aad79039687ca4778cff9b451fd"
+hash = "6bd3ab240fb69835a6096dfbe885c556fd39363f2cec217733728fbe4f3f1116"
 
 [[files]]
 file = "config/inventoryprofilesnext/inventoryprofiles.json"
@@ -18,7 +18,7 @@ hash = "972100bc7efd24f0654e717f0faa1558aed44e1c6d87fd37f0cb6f7201354a78"
 
 [[files]]
 file = "config/iris.properties"
-hash = "fb31c8e9b359db11d0d74dc2dec5b0728595f06f9df05c892df6bc6b2eb1ef9a"
+hash = "99ac8a2dfd17f7b4ed038c02255a279296ecad90e48a5b7196ac4f73260d57ee"
 
 [[files]]
 file = "config/xaerominimap.txt"
