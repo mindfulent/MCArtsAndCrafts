@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = ".claude/settings.local.json"
-hash = "ef622d43d8c6260fef784b512e2d58bfd37d55ebafdb633d051ad34fbf9aafd8"
+hash = "401d44f72f43771be11a32bba160f6bb43b2d25a7c308b165ee73d632ef5ef67"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "95144b03e9b4b9ce8d404a478aa9c15003cb6276adc0851f0eda611f1b3d1165"
+hash = "4c876ad2b9cdf937160667cb5af898237b90a056f84bf94af4192aa8f23eaab3"
 
 [[files]]
 file = "CLAUDE.md"
@@ -14,7 +14,7 @@ hash = "d3f2ddad5271580f19b31bed47df929e6c790b0e0b67294994317d6d884409b2"
 
 [[files]]
 file = "README.md"
-hash = "a828e2704f5cf6e1ce2965be0b9ac6c60a86b21596bb714402fbfc5afc9bac6d"
+hash = "e34a486337f4eaa24d11a8b6a7f4d28521094cc74a3f84be79693af710bf78a8"
 
 [[files]]
 file = "config/iris.properties"
@@ -30,7 +30,11 @@ hash = "bf520f7154bfb854775ed476f781ad462cab86ca68b67c56f4a8936baf82b557"
 
 [[files]]
 file = "journeymap/config/6.0/journeymap.minimap.config"
-hash = "c8028b13b8c5e1886dbe2aa74b0183ee02e89dca683534f3fdb0485dd6c17096"
+hash = "95495226d48919c172eee4119a280275cdf0d63837a282878bce6ae4c66b14d5"
+
+[[files]]
+file = "journeymap/config/6.0/journeymap.minimap2.config"
+hash = "408e7f0df62763aa355abbca8293e5e4ee8fe3ac687657768fd51fd96f164d78"
 
 [[files]]
 file = "mods/appleskin.pw.toml"
@@ -224,7 +228,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "693d29b42a774a775ab4edf655f087005b4f4f52931db295b253f9c68afc15fd"
+hash = "5f77c38d21222e3a2cd225a3deea8db6e011e0c1b9ab9718c859f43a26605f6c"
 
 [[files]]
 file = "shaderpacks/BSL_v10.0.zip"

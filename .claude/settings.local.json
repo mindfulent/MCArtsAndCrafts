@@ -32,7 +32,8 @@
       "WebSearch",
       "WebFetch(domain:inventory-profiles-next.github.io)",
       "WebFetch(domain:teamjm.github.io)",
-      "WebFetch(domain:github.com)"
+      "WebFetch(domain:github.com)",
+      "Bash(ls:*)"
     ]
   }
 }

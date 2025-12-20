@@ -2,6 +2,13 @@
 
 All notable changes to MCArtsAndCrafts will be documented in this file.
 
+## [0.9.5] - 2025-12-20
+
+### Fixed
+- **JourneyMap minimaps** - Both minimap presets now properly disabled by default
+- **Keybinds** - Copied all keybind settings from working game instance
+- **Options** - Full options.txt with all game settings from tested instance
+
 ## [0.9.4] - 2025-12-20
 
 ### Fixed
