@@ -1,4 +1,4 @@
-# MCArtsAndCrafts v0.9.2
+# MCArtsAndCrafts v0.9.3
 
 A curated Fabric 1.21.1 modpack for the Minecraft College CMP, built with [Packwiz](https://packwiz.infra.link/) for easy version control and distribution.
 
@@ -23,8 +23,7 @@ A curated Fabric 1.21.1 modpack for the Minecraft College CMP, built with [Packw
 
 ### Quality of Life
 - **Roughly Enough Items (REI)** - Recipe viewer and item browser
-- **JourneyMap** - Full-featured world map with browser viewing
-- **Xaero's Minimap & World Map** - Rotating minimap with waypoints
+- **JourneyMap** - Full-featured world map with browser viewing and waypoints
 - **Jade** - Block/entity tooltips (what am I looking at?)
 - **AppleSkin** - Food/hunger visualization
 - **Mouse Tweaks** - Enhanced inventory controls
@@ -48,7 +47,7 @@ The modpack comes pre-configured with sensible defaults:
 - Auto-Jump: Off
 - Dark Loading Screen: On
 - Shaders: BSL v10.0 enabled
-- Minimaps: Hidden by default (use keybinds to toggle)
+- JourneyMap minimap: Hidden by default (press J to open full map)
 
 ## Quick Start
 
@@ -104,9 +103,7 @@ MCServer/
 ├── options.txt               # Default game options
 ├── mods/                     # Mod metadata files (.pw.toml)
 ├── config/                   # Mod configurations
-│   ├── iris.properties       # Shader settings (BSL enabled)
-│   ├── xaerominimap.txt      # Minimap hidden by default
-│   └── xaeroworldmap.txt     # World map hidden by default
+│   └── iris.properties       # Shader settings (BSL enabled)
 ├── shaderpacks/              # Bundled shaders
 │   ├── BSL_v10.0.zip
 │   └── ComplementaryReimagined_r5.6.1.zip
@@ -125,7 +122,7 @@ MCServer/
    ```json
    {
      "project_id": "mcartsandcrafts",
-     "version_id": "0.9.2"
+     "version_id": "0.9.3"
    }
    ```
 3. Set server jar to `mrpack4server.jar`
@@ -145,7 +142,7 @@ See [minecraft-college-setup-guide.md](docs/minecraft-college-setup-guide.md) fo
 
 | Side | Mods |
 |------|------|
-| **Client-only** | Sodium, Iris, Controlling, Mouse Tweaks, Xaero's maps |
+| **Client-only** | Sodium, Iris, Controlling, Mouse Tweaks |
 | **Server-only** | Flan, Universal Graves |
 | **Both** | Most content mods, Voice Chat, REI, JourneyMap |
 

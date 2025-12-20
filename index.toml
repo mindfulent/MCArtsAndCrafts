@@ -6,7 +6,7 @@ hash = "ef622d43d8c6260fef784b512e2d58bfd37d55ebafdb633d051ad34fbf9aafd8"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "d647e5f111ada3ef91f512029e13ba505d9e66b9b529ca407a75107c673ca367"
+hash = "d6e4182f2f5feab4a110324a0994cc609a3b1d299d95a8d4e84132b0762508d7"
 
 [[files]]
 file = "CLAUDE.md"
@@ -14,19 +14,11 @@ hash = "d3f2ddad5271580f19b31bed47df929e6c790b0e0b67294994317d6d884409b2"
 
 [[files]]
 file = "README.md"
-hash = "4b873a45be71c3500d492c39b2926a23170a0c82407434b30c501aee94723086"
+hash = "16909ba5b878a96d5137d1bcaedbfd33717b17e3f8d5edab0ebf8d5885c36db8"
 
 [[files]]
 file = "config/iris.properties"
 hash = "99ac8a2dfd17f7b4ed038c02255a279296ecad90e48a5b7196ac4f73260d57ee"
-
-[[files]]
-file = "config/xaerominimap.txt"
-hash = "ec1f5c81842269bd7528afdb66f13997dbf4e8f2a21435e6afd33350a6e244ec"
-
-[[files]]
-file = "config/xaeroworldmap.txt"
-hash = "0cd7c4c514a8022f8977cb6994e44171081874f1d8905630834a67370f3a2d00"
 
 [[files]]
 file = "docs/minecraft-college-setup-guide.md"
@@ -228,16 +220,6 @@ metafile = true
 [[files]]
 file = "mods/universal-graves.pw.toml"
 hash = "695176ca996e639044d0d526cd6c56a95c9897e85e7a8119a2d14a712f755733"
-metafile = true
-
-[[files]]
-file = "mods/xaeros-minimap.pw.toml"
-hash = "8f391603f2b1aaf63717c180e82635b7cd2d57617c02edac60f9d25244731df1"
-metafile = true
-
-[[files]]
-file = "mods/xaeros-world-map.pw.toml"
-hash = "58eb7f330c8e2158385fda1a391b1a93faf36459f8d25ccb482e26ce885deb5e"
 metafile = true
 
 [[files]]

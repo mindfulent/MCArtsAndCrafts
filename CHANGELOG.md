@@ -2,6 +2,16 @@
 
 All notable changes to MCArtsAndCrafts will be documented in this file.
 
+## [0.9.3] - 2025-12-20
+
+### Removed
+- **Xaero's Minimap** - Replaced by JourneyMap (has browser-based map viewer)
+- **Xaero's World Map** - Replaced by JourneyMap
+
+### Changed
+- Mod count reduced from 40 to 38
+- JourneyMap is now the only map mod (minimap hidden by default, press J for full map)
+
 ## [0.9.2] - 2025-12-20
 
 ### Fixed
