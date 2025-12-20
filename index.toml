@@ -13,6 +13,10 @@ file = "README.md"
 hash = "e0677a59b2ca4d69a6d49b95073676acadec5aad79039687ca4778cff9b451fd"
 
 [[files]]
+file = "config/iris.properties"
+hash = "fb31c8e9b359db11d0d74dc2dec5b0728595f06f9df05c892df6bc6b2eb1ef9a"
+
+[[files]]
 file = "docs/minecraft-college-setup-guide.md"
 hash = "5d717577101ef8c5eced132a2ddf43338f78e0b0906cc01aac9a2828a54a08de"
 
