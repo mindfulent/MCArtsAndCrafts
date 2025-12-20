@@ -36,7 +36,7 @@ MCServer/
 ├── index.toml                   # File index with hashes
 ├── mods/                        # Mod metadata files (.pw.toml)
 ├── packwiz.exe                  # Packwiz binary
-├── Minecraft College-1.0.0.mrpack  # Exported modpack for distribution
+├── Minecraft College Modpack-0.9.0.mrpack  # Exported modpack for distribution
 └── docs/
     ├── server-plan.md           # Mod ecosystem research (1.21.1 Fabric vs NeoForge)
     └── minecraft-college-setup-guide.md  # Bloom.host server & player setup guide

@@ -1,4 +1,4 @@
-# Minecraft College Modpack
+# Minecraft College Modpack v0.9.0
 
 A curated Fabric 1.21.1 modpack for the Minecraft College CMP, built with [Packwiz](https://packwiz.infra.link/) for easy version control and distribution.
 

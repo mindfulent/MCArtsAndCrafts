@@ -1,12 +1,12 @@
-name = "Minecraft College"
+name = "Minecraft College Modpack"
 author = "Slash"
-version = "1.0.0"
+version = "0.9.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "7f8e2092f513ee6034ffa426d756af76b4cdef4249d6c335bf9c8bb79f0a67b2"
+hash = "420006118edb7c732ed0b08b551df0a8a5d5c9f8cec7ea832a562062086dd739"
 
 [versions]
 fabric = "0.18.3"

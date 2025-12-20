@@ -2,11 +2,15 @@ hash-format = "sha256"
 
 [[files]]
 file = ".claude/settings.local.json"
-hash = "fbe96b26f9fc0bd02d3b623c5fd4fa8a1360a658c581a5386385e335d74dc9ff"
+hash = "1b518d669b781aa9f2c92cf39ea646935f12561ca58375174dd4fbf323a8b99f"
 
 [[files]]
 file = "CLAUDE.md"
-hash = "61dd2d56202a0a3b352240c565e9129320198919485fe30b4414637076e17b79"
+hash = "653fbad6fbef12d875748c0b3e3008f96c6f4fa9ec73719206e24f3c092430db"
+
+[[files]]
+file = "README.md"
+hash = "78b584ef5757146a2e60b58c09ebc9e698ec1837d5bcc0fad17ab398440445c1"
 
 [[files]]
 file = "docs/minecraft-college-setup-guide.md"
@@ -14,7 +18,7 @@ hash = "5d717577101ef8c5eced132a2ddf43338f78e0b0906cc01aac9a2828a54a08de"
 
 [[files]]
 file = "docs/server-plan.md"
-hash = "a4348f419dd7a226b06e88cd2a6d01839482348d221b15402b24905af8683b73"
+hash = "bf520f7154bfb854775ed476f781ad462cab86ca68b67c56f4a8936baf82b557"
 
 [[files]]
 file = "mods/appleskin.pw.toml"
@@ -230,10 +234,6 @@ metafile = true
 file = "mods/xaeros-world-map.pw.toml"
 hash = "58eb7f330c8e2158385fda1a391b1a93faf36459f8d25ccb482e26ce885deb5e"
 metafile = true
-
-[[files]]
-file = "nul"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "overrides/shaderpacks/ComplementaryReimagined_r5.6.1.zip"
