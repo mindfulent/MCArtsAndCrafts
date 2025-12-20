@@ -37,8 +37,20 @@ A curated Fabric 1.21.1 modpack for the Minecraft College CMP, built with [Packw
 - **Flan** - Land claiming and protection
 - **Better Sleep** - Sleep voting for multiplayer nights
 
-### Bundled Shader
+### Bundled Shaders
+- **BSL v10.0** - High visual quality (enabled by default)
 - **Complementary Reimagined r5.6.1** - Vanilla-enhanced aesthetic with "Potato" to "Ultra" presets
+
+### Default Settings
+The modpack comes pre-configured with sensible defaults:
+- GUI Scale: 3x
+- Render Distance: 32 (max)
+- Simulation Distance: 32 (max)
+- Auto-Jump: Off
+- Dark Loading Screen: On
+- Shaders: BSL v10.0 enabled
+- Minimaps: Hidden by default (use keybinds to toggle)
+- IPN Locked Slot Indicators: Hidden
 
 ## Quick Start
 
@@ -91,13 +103,17 @@ cd MCServer
 MCServer/
 ├── pack.toml                 # Pack metadata (name, version, MC version, loader)
 ├── index.toml                # File index with hashes
+├── options.txt               # Default game options
 ├── mods/                     # Mod metadata files (.pw.toml)
-│   ├── sodium.pw.toml
-│   ├── lithium.pw.toml
-│   └── ...
-├── overrides/
-│   └── shaderpacks/          # Bundled shaders
-│       └── ComplementaryReimagined_r5.6.1.zip
+├── config/                   # Mod configurations
+│   ├── iris.properties       # Shader settings (BSL enabled)
+│   ├── xaerominimap.txt      # Minimap hidden by default
+│   ├── xaeroworldmap.txt     # World map hidden by default
+│   └── inventoryprofilesnext/
+├── shaderpacks/              # Bundled shaders
+│   ├── BSL_v10.0.zip
+│   └── ComplementaryReimagined_r5.6.1.zip
+├── journeymap/               # JourneyMap config (minimap hidden)
 └── docs/
     ├── server-plan.md        # Mod ecosystem research
     └── minecraft-college-setup-guide.md  # Deployment guide
@@ -111,8 +127,8 @@ MCServer/
 2. Create `modpack-info.json`:
    ```json
    {
-     "project_id": "minecraft-college",
-     "version_id": "1.0.0"
+     "project_id": "mcartsandcrafts",
+     "version_id": "0.9.0"
    }
    ```
 3. Set server jar to `mrpack4server.jar`
@@ -132,7 +148,7 @@ See [minecraft-college-setup-guide.md](docs/minecraft-college-setup-guide.md) fo
 
 | Side | Mods |
 |------|------|
-| **Client-only** | Sodium, Iris, Effective, Controlling, Mouse Tweaks, IPN, Xaero's maps |
+| **Client-only** | Sodium, Iris, Controlling, Mouse Tweaks, IPN, Xaero's maps |
 | **Server-only** | Flan, Universal Graves |
 | **Both** | Most content mods, Voice Chat, REI, JourneyMap |
 
@@ -140,6 +156,7 @@ See [minecraft-college-setup-guide.md](docs/minecraft-college-setup-guide.md) fo
 - **Create** - NeoForge only (no Fabric port)
 - **Iron Chests** - Not yet updated
 - **Decorative Blocks** - Stuck at 1.20.4
+- **Effective** - Removed due to crash with REI (Veil/ImGui conflict)
 
 ## Requirements
 
@@ -164,4 +181,5 @@ This modpack configuration is open source. Individual mods retain their respecti
 - [Prism Launcher](https://prismlauncher.org/) - Recommended launcher
 - [Packwiz Documentation](https://packwiz.infra.link/) - Modpack tooling
 - [Modrinth](https://modrinth.com/) - Mod hosting platform
-- [Complementary Shaders](https://modrinth.com/shader/complementary-reimagined) - Bundled shader
+- [BSL Shaders](https://modrinth.com/shader/bsl-shaders) - Default shader
+- [Complementary Shaders](https://modrinth.com/shader/complementary-reimagined) - Alternative shader
