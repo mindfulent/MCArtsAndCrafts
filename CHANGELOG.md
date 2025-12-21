@@ -2,6 +2,11 @@
 
 All notable changes to MCArtsAndCrafts will be documented in this file.
 
+## [0.9.14] - 2025-12-20
+
+### Fixed
+- **Server shutdown hang** - Distant Horizons now client-only (was causing SQLite connection hang on server restart)
+
 ## [0.9.13] - 2025-12-20
 
 ### Added

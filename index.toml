@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = ".claude/settings.local.json"
-hash = "f85e046ce3d8fc2470b0277ef4a463547905f3706d9c998248b32072ea426951"
+hash = "fe4c788452dfa2950922c97b56b219314ed25d85c684e29112cd2c07840d606f"
 
 [[files]]
 file = ".env"
@@ -14,7 +14,7 @@ hash = "70535e20ae4e0f3edff09d661bbe3b2d244290e4001af76c9547d409cc6270a6"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "56630598e87685f3cfcd2704bed1155360f6ec395ef1346d57f1411462e4a029"
+hash = "ee6f8a53445b91d3752b9280a07a8eabfdc1a4ce1c21cc2b07bd6eb5777b3270"
 
 [[files]]
 file = "CLAUDE.md"
@@ -26,7 +26,7 @@ hash = "98d2c3c16836fcd6dcc509e9686423ea948e9df9f12182114e7093a030262e37"
 
 [[files]]
 file = "README.md"
-hash = "621065edbee644479d7dffff6e4914ec0288ec7fec6e36249a333aa7198a8500"
+hash = "437288234228000ba0835878f98149f3bb6c14357533c6e381f1cdc0d85e9f5c"
 
 [[files]]
 file = "__pycache__/server-config.cpython-314.pyc"
@@ -71,6 +71,10 @@ hash = "408e7f0df62763aa355abbca8293e5e4ee8fe3ac687657768fd51fd96f164d78"
 [[files]]
 file = "logo.png"
 hash = "fb392fed200fb97a293972a79eb96fbce6104b3ebd2ec669a3b9c1a120447025"
+
+[[files]]
+file = "modpack-info.json"
+hash = "3c39b43235abb07c7fa2518fe221ea77d3ac9595b912d7bcf6de6f93c0248554"
 
 [[files]]
 file = "mods/appleskin.pw.toml"
@@ -119,7 +123,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "4090a404f56f440490ae8efed8899741db8deac455a41cce279fabbee94f3721"
+hash = "b9cb49dc2d791b759ac553cf28ca33a6440d219f48ebc0ba4eb100df37c73889"
 metafile = true
 
 [[files]]
