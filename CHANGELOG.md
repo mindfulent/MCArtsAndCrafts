@@ -2,6 +2,14 @@
 
 All notable changes to MCArtsAndCrafts will be documented in this file.
 
+## [0.9.15] - 2025-12-20
+
+### Added
+- **BlueMap** - 3D interactive web map viewable in browser (server-side, access at port 8100)
+
+### Removed
+- **JourneyMap Web Map** - Replaced by BlueMap for proper server-hosted web maps
+
 ## [0.9.14] - 2025-12-20
 
 ### Fixed

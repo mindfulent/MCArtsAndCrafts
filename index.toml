@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = ".claude/settings.local.json"
-hash = "fe4c788452dfa2950922c97b56b219314ed25d85c684e29112cd2c07840d606f"
+hash = "5229efb5e9617a66719637e9ee870d0b62748b1a42eb427496b3c280dad4cd47"
 
 [[files]]
 file = ".env"
@@ -14,7 +14,7 @@ hash = "70535e20ae4e0f3edff09d661bbe3b2d244290e4001af76c9547d409cc6270a6"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "ee6f8a53445b91d3752b9280a07a8eabfdc1a4ce1c21cc2b07bd6eb5777b3270"
+hash = "3cd592f2c766054ec31fe988a1a5c166e9ab8868ce402704309a2606b1793bad"
 
 [[files]]
 file = "CLAUDE.md"
@@ -26,7 +26,7 @@ hash = "98d2c3c16836fcd6dcc509e9686423ea948e9df9f12182114e7093a030262e37"
 
 [[files]]
 file = "README.md"
-hash = "437288234228000ba0835878f98149f3bb6c14357533c6e381f1cdc0d85e9f5c"
+hash = "e2665f6e6fdd51e06b79c482bd708f7d85163d5001ab14622af51842118ea424"
 
 [[files]]
 file = "__pycache__/server-config.cpython-314.pyc"
@@ -74,7 +74,7 @@ hash = "fb392fed200fb97a293972a79eb96fbce6104b3ebd2ec669a3b9c1a120447025"
 
 [[files]]
 file = "modpack-info.json"
-hash = "3c39b43235abb07c7fa2518fe221ea77d3ac9595b912d7bcf6de6f93c0248554"
+hash = "fc592b835a1b0c15a8cbcd02f06cc2d1d89379d940ac0087597a418b0d04cb77"
 
 [[files]]
 file = "mods/appleskin.pw.toml"
@@ -94,6 +94,11 @@ metafile = true
 [[files]]
 file = "mods/better-sleep.pw.toml"
 hash = "642e862f4be77db00a3afd2105efb10b81d874e0afc32c621cf1bb7f087fe410"
+metafile = true
+
+[[files]]
+file = "mods/bluemap.pw.toml"
+hash = "0fab2a26e6692d71537da9565dd87137504ddb34653136fd9f7a7df084d47575"
 metafile = true
 
 [[files]]
@@ -179,11 +184,6 @@ metafile = true
 [[files]]
 file = "mods/jade.pw.toml"
 hash = "f40b2722e2f26e50909aaa4579beac0d107a96a524adb5ffedac3bf183cceee2"
-metafile = true
-
-[[files]]
-file = "mods/journeymap-web-map.pw.toml"
-hash = "1e017d26a65b85ca2534de6fd2021e4c11012055738182db1816af500af58e06"
 metafile = true
 
 [[files]]
