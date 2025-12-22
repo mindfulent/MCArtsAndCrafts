@@ -2,6 +2,18 @@
 
 All notable changes to MCArtsAndCrafts will be documented in this file.
 
+## [0.9.21] - 2025-12-22
+
+### Changed
+- **Jade** replaced with **WTHIT** v12.8.3 - MIT licensed (was CC BY-NC-SA 4.0)
+- Added **Bad Packets** v0.8.2 - WTHIT dependency
+
+### Added
+- **docs/LICENSES.md** - Complete license audit for all 59 mods
+
+### Notes
+- This change enables potential server monetization by removing the only non-commercial license restriction
+
 ## [0.9.20] - 2025-12-22
 
 ### Added

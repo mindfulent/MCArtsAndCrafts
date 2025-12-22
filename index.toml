@@ -57,6 +57,11 @@ hash = "dbc1220d5b4e4a1615ccecfb7d482349020919700ad9bafb5f690c2d4adbb5b2"
 metafile = true
 
 [[files]]
+file = "mods/badpackets.pw.toml"
+hash = "6ff12e37227232226f2fe51c0e34386540d417d06c75cb951eac01f8947bea68"
+metafile = true
+
+[[files]]
 file = "mods/better-sleep.pw.toml"
 hash = "642e862f4be77db00a3afd2105efb10b81d874e0afc32c621cf1bb7f087fe410"
 metafile = true
@@ -164,11 +169,6 @@ metafile = true
 [[files]]
 file = "mods/iris.pw.toml"
 hash = "c86e0fe57fbe042c8444a9c63933e89b5fdd50f325bb8a9796d0e7cca8735c89"
-metafile = true
-
-[[files]]
-file = "mods/jade.pw.toml"
-hash = "f40b2722e2f26e50909aaa4579beac0d107a96a524adb5ffedac3bf183cceee2"
 metafile = true
 
 [[files]]
@@ -329,6 +329,11 @@ metafile = true
 [[files]]
 file = "mods/worldedit.pw.toml"
 hash = "f1670113ba6c7687790c33c13521505caf0fb59a50a253e9533e9f6ebe3cf8c9"
+metafile = true
+
+[[files]]
+file = "mods/wthit.pw.toml"
+hash = "c2fe7ad62a2b0f218f952fdb96c0edff69c29a6aa9080adc5e91d012a4cb57a6"
 metafile = true
 
 [[files]]

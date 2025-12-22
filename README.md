@@ -2,7 +2,7 @@
   <img src="logo.png" alt="MCArtsAndCrafts Logo" width="400">
 </p>
 
-# MCArtsAndCrafts v0.9.20
+# MCArtsAndCrafts v0.9.21
 
 A curated Fabric 1.21.1 modpack for the Minecraft College CMP, built with [Packwiz](https://packwiz.infra.link/) for easy version control and distribution.
 
@@ -44,7 +44,7 @@ A curated Fabric 1.21.1 modpack for the Minecraft College CMP, built with [Packw
 ### Quality of Life
 - **Roughly Enough Items (REI)** - Recipe viewer and item browser
 - **JourneyMap** - Full-featured world map with browser viewing and waypoints
-- **Jade** - Block/entity tooltips (what am I looking at?)
+- **WTHIT** - Block/entity tooltips (what am I looking at?)
 - **AppleSkin** - Food/hunger visualization
 - **Mouse Tweaks** - Enhanced inventory controls
 - **Controlling** - Searchable keybinds with conflict detection
