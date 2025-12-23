@@ -22,7 +22,7 @@ Many mod creators accept donations to support their work. Consider supporting yo
 | [FerriteCore](https://modrinth.com/mod/ferrite-core) | malte0811 | 7.0.2 | Oct 27, 2024 | - |
 | [ModernFix](https://modrinth.com/mod/modernfix) | embeddedt | 5.25.1 | Nov 8, 2025 | [Ko-fi](https://ko-fi.com/embeddedt) |
 | [Krypton](https://modrinth.com/mod/krypton) | astei | 0.2.8 | Jun 22, 2024 | [PayPal](https://paypal.me/terminalvelocity1), [GitHub Sponsors](https://github.com/sponsors/astei) |
-| [Iris Shaders](https://modrinth.com/mod/iris) | coderbot, IMS | 1.8.8 | Feb 20, 2025 | [Patreon](https://www.patreon.com/irisshaders) |
+| [Iris Shaders](https://modrinth.com/mod/iris) | coderbot, IMS | 1.8.8 | Feb 20, 2025 | [Patreon](https://www.patreon.com/ims21) |
 
 ## Library/API Mods
 
