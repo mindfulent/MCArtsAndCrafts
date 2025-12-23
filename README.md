@@ -85,6 +85,26 @@ The modpack comes pre-configured with sensible defaults:
 4. Allocate 4-6GB RAM (Edit Instance → Settings → Memory)
 5. Connect to the server!
 
+### Pre-Generated LOD Data (Optional)
+
+We provide pre-generated Distant Horizons LOD data for the server. This gives you beautiful distant terrain rendering without waiting for your client to generate it.
+
+**Download:** [DistantHorizons.sqlite](https://drive.google.com/YOUR_LINK_HERE)
+
+Place the downloaded `DistantHorizons.sqlite` file in your Prism Launcher instance's minecraft folder:
+
+**Windows** (Win+R, paste, replace `{username}` with your Windows username):
+```
+C:\Users\{username}\AppData\Roaming\PrismLauncher\instances\MCArtsAndCrafts-0.9.22\minecraft
+```
+
+**macOS** (Finder → Go → Go to Folder, replace `{username}`):
+```
+/Users/{username}/Library/Application Support/PrismLauncher/instances/MCArtsAndCrafts-0.9.22/minecraft
+```
+
+**Alternative:** In Prism Launcher, right-click the instance → "Folder" → drop the file there.
+
 ### For Development
 
 ```bash
