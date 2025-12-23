@@ -155,6 +155,7 @@ MCArtsAndCrafts/
 │   └── ComplementaryReimagined_r5.6.1.zip
 ├── journeymap/config/6.0/    # JourneyMap config (minimap hidden)
 └── docs/
+    ├── CREDITS.md            # Mod creators and donation links
     ├── server-plan.md        # Mod ecosystem research
     └── minecraft-college-setup-guide.md  # Deployment guide
 ```
@@ -236,7 +237,7 @@ After first server start, configure Discord integration:
 
 ## License
 
-This modpack configuration is open source. Individual mods retain their respective licenses.
+This modpack configuration is open source. Individual mods retain their respective licenses. See [docs/CREDITS.md](docs/CREDITS.md) for a complete list of mod creators and donation links.
 
 ## Links
 
