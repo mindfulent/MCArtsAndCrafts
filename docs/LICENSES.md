@@ -1,6 +1,6 @@
 # MCC Modpack - License Audit
 
-This document catalogs the licenses for all 60 mods included in the MCC modpack (v0.9.21) for use on a multiplayer creative server.
+This document catalogs the licenses for all 80 mods included in the MCC modpack (v0.9.29) for use on a multiplayer creative server.
 
 **Audit Date:** December 22, 2025
 

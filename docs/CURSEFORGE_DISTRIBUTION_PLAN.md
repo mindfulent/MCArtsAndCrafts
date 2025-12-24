@@ -2,7 +2,7 @@
 
 This document outlines everything required to publish MCC on CurseForge as a secondary distribution channel alongside Modrinth.
 
-**Current Status:** Not pursued (as of v0.9.21)
+**Current Status:** Not pursued (as of v0.9.29)
 **Effort Estimate:** Medium-High initial setup, ongoing maintenance overhead
 **Decision:** Documented for future reference if wider distribution becomes a priority
 
@@ -31,7 +31,7 @@ This document outlines everything required to publish MCC on CurseForge as a sec
 
 ### Why It's Complex
 
-- All 60 mods currently have Modrinth metadata
+- All 80 mods currently have Modrinth metadata
 - CurseForge requires mods on their platform to be referenced by project ID (not bundled)
 - Maintaining two metadata sources doubles update work
 - Different export formats (.mrpack vs .zip with manifest.json)
