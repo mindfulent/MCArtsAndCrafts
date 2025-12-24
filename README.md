@@ -2,7 +2,7 @@
   <img src="mcc_com.png" alt="MCC Logo" width="100%">
 </p>
 
-# MCC (MinecraftCollege.com) v0.9.30
+# MCC (MinecraftCollege.com) v0.9.31
 
 A curated Fabric 1.21.1 modpack for the Minecraft College CMP, built with [Packwiz](https://packwiz.infra.link/) for easy version control and distribution.
 
@@ -47,6 +47,7 @@ A curated Fabric 1.21.1 modpack for the Minecraft College CMP, built with [Packw
 - **Fabric Seasons** - Four seasons with visual and gameplay changes (currently locked to Winter)
 - **Joy of Painting** - Paint custom pictures on canvases and display them like vanilla paintings
 - **Camerapture** - Take in-game photos and hang them as pictures
+- **WaterFrames** - Display images and videos from URLs on in-game frames and projectors
 
 ### Web Map
 - **BlueMap** - Live 3D web map of the server world (port 8100)

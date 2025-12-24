@@ -2,6 +2,20 @@
 
 All notable changes to MCC will be documented in this file.
 
+## [0.9.31] - 2025-12-24
+
+### Added
+- **WATERFrAMES** v2.1.22 - Display images and videos from URLs on in-game frames and projectors
+- **WATERMeDIA** v3.0.0-alpha.3 (dependency) - Multimedia API for video/image handling
+- **WATERViSION** v0.1.0-alpha (dependency) - Video player component
+- **CreativeCore** v2.13.14 (dependency) - Library for creative features
+
+### Changed
+- Mod count increased from 81 to 85
+
+### Notes
+- Requires VLC installed on Linux/Mac for video playback
+
 ## [0.9.30] - 2025-12-24
 
 ### Added

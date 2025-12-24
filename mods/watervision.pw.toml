@@ -1,0 +1,13 @@
+name = "WATERViSION: VideoPlayer"
+filename = "watervision-FB-mc1.21.1-v0.1.0-alpha.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/dGGbEGoV/versions/nVXt0mgU/watervision-FB-mc1.21.1-v0.1.0-alpha.jar"
+hash-format = "sha512"
+hash = "a075cebd13603fb1b1918c7e96ee0bccd49e5e74ff894fbe64d60b81ae78d23f301495a318b2c3bbb12f336b1bb21d27af0d4e174adb6ff9cdd289d89994658a"
+
+[update]
+[update.modrinth]
+mod-id = "dGGbEGoV"
+version = "nVXt0mgU"

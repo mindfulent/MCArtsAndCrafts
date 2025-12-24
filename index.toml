@@ -153,6 +153,11 @@ hash = "c798b7e3414891c8db42e93335d21a104d40a235e35a6a42b47e0a213c9a6be9"
 metafile = true
 
 [[files]]
+file = "mods/creativecore.pw.toml"
+hash = "31535a06bf76553e83bd982eb3df9158b815cb7d0207a3fc719758d020d683b7"
+metafile = true
+
+[[files]]
 file = "mods/distanthorizons.pw.toml"
 hash = "b9cb49dc2d791b759ac553cf28ca33a6440d219f48ebc0ba4eb100df37c73889"
 metafile = true
@@ -435,6 +440,21 @@ metafile = true
 [[files]]
 file = "mods/universal-sawmill.pw.toml"
 hash = "5b27aeb2db9d4a77b78ec6d0b86a4b5c71d14b844e281731cbf07c6133ca88ef"
+metafile = true
+
+[[files]]
+file = "mods/waterframes.pw.toml"
+hash = "6eacaa113ef27bddbd9c5966a65fd15a23d68bd826c1d594bfcf6c2380388e74"
+metafile = true
+
+[[files]]
+file = "mods/watermedia.pw.toml"
+hash = "0500426b027e95e3952fe8b0f81c51bb724fd5951b8725e8b9a9cab62309cec5"
+metafile = true
+
+[[files]]
+file = "mods/watervision.pw.toml"
+hash = "e15d048097d01280dfbc89346438f2da671ef768d4a7329d556d42f01e8440fd"
 metafile = true
 
 [[files]]

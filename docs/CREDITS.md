@@ -3,7 +3,7 @@
 This document credits all mod creators whose work makes this modpack possible. Thank you for your incredible contributions to the Minecraft modding community!
 
 **Last Updated:** December 24, 2025
-**Modpack Version:** 0.9.30 (81 mods)
+**Modpack Version:** 0.9.31 (85 mods)
 
 ---
 
@@ -45,6 +45,9 @@ Many mod creators accept donations to support their work. Consider supporting yo
 | [Puzzles Lib](https://modrinth.com/mod/puzzles-lib) | Fuzs | 21.1.39 | Nov 15, 2025 | [Patreon](https://www.patreon.com/heyitsfuzs) |
 | [Konkrete](https://modrinth.com/mod/konkrete) | Keksuccino | 1.9.9 | Jun 18, 2025 | - |
 | [Lithostitched](https://modrinth.com/mod/lithostitched) | Apollo | 1.5.4 | Oct 7, 2025 | - |
+| [WATERMeDIA](https://modrinth.com/mod/watermedia) | SrRapero720 | 3.0.0-alpha.3 | Dec 2025 | - |
+| [WATERViSION](https://modrinth.com/mod/watervision) | SrRapero720 | 0.1.0-alpha | Dec 2025 | - |
+| [CreativeCore](https://modrinth.com/mod/creativecore) | CreativeMD | 2.13.14 | Dec 2025 | [Patreon](https://www.patreon.com/creativemd) |
 
 ## Map Mods
 
@@ -102,6 +105,7 @@ Many mod creators accept donations to support their work. Consider supporting yo
 | [[Let's Do] Farm & Charm](https://modrinth.com/mod/lets-do-farm-charm) | satisfyu, Cristelknight | 1.1.14 | Nov 23, 2025 | [PayPal](https://paypal.me/mrclbe), [Patreon](https://www.patreon.com/user?u=78595058) |
 | [Joy of Painting](https://modrinth.com/mod/joy-of-painting) | xerca | 1.0.1 | Nov 16, 2024 | - |
 | [Camerapture](https://modrinth.com/mod/camerapture) | chrrs | 1.10.8 | Dec 2025 | [Ko-fi](https://ko-fi.com/chrrs) |
+| [WATERFrAMES](https://modrinth.com/mod/waterframes) | SrRapero720 | 2.1.22 | Dec 2025 | - |
 
 ## Quality of Life Mods
 
