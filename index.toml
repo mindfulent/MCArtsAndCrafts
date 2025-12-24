@@ -6,7 +6,7 @@ hash = "6cf6e4733d08ed6119716848ccd503e2d11441a6771847cc12eb9d04a4aea92b"
 
 [[files]]
 file = "config/AdvancedBackups.properties"
-hash = "5f286c969eaf7c31c3958b6ff8417333421e98844621b39ec23dc9d04396c4f8"
+hash = "28b1af7e1ccd9695166ec1df33e0d08c1ec078e6e186e0b2e8c0228fe9e10acf"
 
 [[files]]
 file = "config/bluemap/core.conf"
@@ -42,7 +42,7 @@ hash = "408e7f0df62763aa355abbca8293e5e4ee8fe3ac687657768fd51fd96f164d78"
 
 [[files]]
 file = "modpack-info.json"
-hash = "c7c96045fba79e85c9ba939d325faf3583c688fe56a26c1ac3664b1101474528"
+hash = "661a5bee9195c7c6bf3a62cfab61b2334cd026214034f0b8ecdb759216b489ff"
 
 [[files]]
 file = "mods/adorn.pw.toml"

@@ -2,6 +2,18 @@
 
 All notable changes to MCC will be documented in this file.
 
+## [0.9.28] - 2025-12-23
+
+### Changed
+- **Project renamed** from MCArtsAndCrafts to MCC (MinecraftCollege.com)
+- All documentation, scripts, and GitHub repository updated with new naming
+- Release packages now named `MCC-X.Y.Z.mrpack` instead of `MCArtsAndCrafts-X.Y.Z.mrpack`
+
+### Notes
+- No mod changes in this release
+- Existing player instances will continue to work
+- GitHub redirects old MCArtsAndCrafts URLs to MCC automatically
+
 ## [0.9.27] - 2025-12-23
 
 ### Added
