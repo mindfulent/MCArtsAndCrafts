@@ -3,7 +3,7 @@
 This document credits all mod creators whose work makes this modpack possible. Thank you for your incredible contributions to the Minecraft modding community!
 
 **Last Updated:** December 24, 2025
-**Modpack Version:** 0.9.31 (85 mods)
+**Modpack Version:** 0.9.31 (86 mods)
 
 ---
 
@@ -45,7 +45,8 @@ Many mod creators accept donations to support their work. Consider supporting yo
 | [Puzzles Lib](https://modrinth.com/mod/puzzles-lib) | Fuzs | 21.1.39 | Nov 15, 2025 | [Patreon](https://www.patreon.com/heyitsfuzs) |
 | [Konkrete](https://modrinth.com/mod/konkrete) | Keksuccino | 1.9.9 | Jun 18, 2025 | - |
 | [Lithostitched](https://modrinth.com/mod/lithostitched) | Apollo | 1.5.4 | Oct 7, 2025 | - |
-| [WATERMeDIA](https://modrinth.com/mod/watermedia) | SrRapero720 | 3.0.0-alpha.3 | Dec 2025 | - |
+| [WATERMeDIA](https://modrinth.com/mod/watermedia) | SrRapero720 | 2.1.37 | Dec 2025 | - |
+| [WATERMeDIA Youtube Plugin](https://modrinth.com/mod/watermedia-youtube-plugin) | SrRapero720 | 2.1.1 | Dec 2025 | - |
 | [WATERViSION](https://modrinth.com/mod/watervision) | SrRapero720 | 0.1.0-alpha | Dec 2025 | - |
 | [CreativeCore](https://modrinth.com/mod/creativecore) | CreativeMD | 2.13.14 | Dec 2025 | [Patreon](https://www.patreon.com/creativemd) |
 
