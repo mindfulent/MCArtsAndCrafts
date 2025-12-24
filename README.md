@@ -2,7 +2,7 @@
   <img src="logo.png" alt="MCArtsAndCrafts Logo" width="400">
 </p>
 
-# MCArtsAndCrafts v0.9.25
+# MCArtsAndCrafts v0.9.27
 
 A curated Fabric 1.21.1 modpack for the Minecraft College CMP, built with [Packwiz](https://packwiz.infra.link/) for easy version control and distribution.
 
@@ -28,9 +28,10 @@ A curated Fabric 1.21.1 modpack for the Minecraft College CMP, built with [Packw
 - **Excessive Building** - 100+ vanilla-style blocks (mosaic wood, vertical stairs), hammer/wrench tools
 - **Adorn** - Furniture (chairs, sofas, tables, shelves, kitchen blocks)
 - **Supplementaries** - Jars, signs, clocks, pulleys, cages, and 100+ decorative/utility items
+- **Amendments** - Supplementaries companion (wall lanterns, skull candles, ceiling pots)
 - **Connectible Chains** - Decorative chain links between fences and walls
 - **Underlay** - Place carpets and blocks under chests, beds, stairs
-- **Reintegrated: Arts and Crafts** - Dyeable copper blocks (bulk tinting with copper ingots)
+- **Arts & Crafts** - Dyeable decorated pots, chalk, terracotta shingles, soapstone
 - **ReFramed** - Copy any block's appearance onto stairs, slabs, fences, and more
 - **Armor Statues** - Pose and customize armor stands with a book interface
 - **Fairy Lights** - Decorative string lights for buildings and events
@@ -105,12 +106,12 @@ Place the downloaded `DistantHorizons.sqlite` file in your Prism Launcher instan
 
 **Windows** (Win+R, paste, replace `{username}` with your Windows username):
 ```
-C:\Users\{username}\AppData\Roaming\PrismLauncher\instances\MCArtsAndCrafts-0.9.25\minecraft
+C:\Users\{username}\AppData\Roaming\PrismLauncher\instances\MCArtsAndCrafts-0.9.27\minecraft
 ```
 
 **macOS** (Finder → Go → Go to Folder, replace `{username}`):
 ```
-/Users/{username}/Library/Application Support/PrismLauncher/instances/MCArtsAndCrafts-0.9.25/minecraft
+/Users/{username}/Library/Application Support/PrismLauncher/instances/MCArtsAndCrafts-0.9.27/minecraft
 ```
 
 **Alternative:** In Prism Launcher, right-click the instance → "Folder" → drop the file there.

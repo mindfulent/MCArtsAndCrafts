@@ -2,6 +2,26 @@
 
 All notable changes to MCArtsAndCrafts will be documented in this file.
 
+## [0.9.27] - 2025-12-23
+
+### Added
+- **Amendments** v2.0.13 - Supplementaries companion mod (wall lanterns, skull candles, ceiling pots, ceiling banners, skull piles)
+
+### Changed
+- Mod count increased from 77 to 78
+
+## [0.9.26] - 2025-12-23
+
+### Fixed
+- Server crash on startup - Reintegrated Arts & Crafts requires base Arts & Crafts mod
+
+### Added
+- **Arts & Crafts** v1.5.3 - Dyeable decorated pots, chalk, terracotta shingles, soapstone
+- **JinxedLib** v1.0.4 (dependency)
+
+### Changed
+- Mod count increased from 75 to 77
+
 ## [0.9.25] - 2025-12-23
 
 ### Removed
