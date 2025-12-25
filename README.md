@@ -2,7 +2,7 @@
   <img src="mcc_com.png" alt="MCC Logo" width="100%">
 </p>
 
-# MCC (MinecraftCollege.com) v0.9.34
+# MCC (MinecraftCollege.com) v0.9.35
 
 A curated Fabric 1.21.1 modpack for the Minecraft College CMP, built with [Packwiz](https://packwiz.infra.link/) for easy version control and distribution.
 

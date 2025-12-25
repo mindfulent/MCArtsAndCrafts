@@ -2,6 +2,14 @@
 
 All notable changes to MCC will be documented in this file.
 
+## [0.9.35] - 2025-12-25
+
+### Fixed
+- **Minescript** - Fixed Python path configuration for Windows users with standard Python installation (was pointing to Microsoft Store stub)
+
+### Added
+- Bundled Minescript config with portable Python path (`python="python"`)
+
 ## [0.9.34] - 2025-12-25
 
 ### Updated

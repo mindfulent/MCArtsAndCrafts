@@ -49,6 +49,10 @@ file = "mcc_square.png"
 hash = "58f04aaad383a08b9ddbe72280b1db0acf995ec1c3510581db49b7bb87c0778d"
 
 [[files]]
+file = "minescript/config.txt"
+hash = "4dcf7855abb3439f00d76ba676653eeb01ffc529babc0a2bdd1bb37d144a6833"
+
+[[files]]
 file = "modpack-info.json"
 hash = "1c7980231bba2a5c381eab7fc27c480a727929a4b43595a3b792aa7ec846fc70"
 
