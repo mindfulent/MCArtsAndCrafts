@@ -1,11 +1,11 @@
 {
   "project_id": "mcc",
-  "version_id": "0.9.18",
+  "version_id": "0.9.31",
   "display_name": "MCC",
-  "display_version": "0.9.18",
-  "url": "https://github.com/mindfulent/MCC/releases/download/v0.9.18/MCC-0.9.18.mrpack",
-  "size": 13074801,
-  "sha512": "64b250ab0875c75bf59f1f7539a34785476272abe08c41d3b8378304ca204fdd4e2d66d9287454fffc0a754d93b055d545e35dcf5d53743ac91861e05adbc00c",
+  "display_version": "0.9.31",
+  "url": "https://github.com/mindfulent/MCC/releases/download/v0.9.31/MCC-0.9.31.mrpack",
+  "size": 288015428,
+  "sha512": "5c7cbc052e415d63ca07a3ac3a1ff87a6b3586a1f44d228c51f96454b475b289735003d5dc9a19e8d31563647330e8045a38a8daff56c8b5edb1afeac818d033",
   "whitelisted_domains": ["github.com", "objects.githubusercontent.com"],
   "non_overwritable_paths": ["world", "world_nether", "world_the_end", "server.properties", "ops.json", "whitelist.json", "banned-players.json", "banned-ips.json"]
 }
