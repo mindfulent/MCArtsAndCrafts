@@ -50,7 +50,7 @@ hash = "58f04aaad383a08b9ddbe72280b1db0acf995ec1c3510581db49b7bb87c0778d"
 
 [[files]]
 file = "modpack-info.json"
-hash = "661a5bee9195c7c6bf3a62cfab61b2334cd026214034f0b8ecdb759216b489ff"
+hash = "1c7980231bba2a5c381eab7fc27c480a727929a4b43595a3b792aa7ec846fc70"
 
 [[files]]
 file = "mods/adorn.pw.toml"
@@ -220,6 +220,11 @@ metafile = true
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "238b3ceb4214a682480ce00eefae5d34efa299ff6ff667e4b2f2ed503c6e76ee"
+metafile = true
+
+[[files]]
+file = "mods/gamemode-unrestrictor.pw.toml"
+hash = "39a40f1ff2619a25039f4bbf44d7586bb0ac366ba3619418ef2cf36789dff77e"
 metafile = true
 
 [[files]]

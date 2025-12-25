@@ -1,0 +1,13 @@
+name = "Gamemode Unrestrictor"
+filename = "gamemodeunrestrictor-1.0.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/SwuGFOl6/versions/ASnbtYsP/gamemodeunrestrictor-1.0.2.jar"
+hash-format = "sha512"
+hash = "30796c483c1d84fce700240de68f4c24e95cacbafc62eca4f6a27b1275a36d7714bef9d272d2f74baf2a11691db2e1843203f48c8224ffea3bc976dd7db086e9"
+
+[update]
+[update.modrinth]
+mod-id = "SwuGFOl6"
+version = "ASnbtYsP"

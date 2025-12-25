@@ -3,7 +3,7 @@
 This document credits all mod creators whose work makes this modpack possible. Thank you for your incredible contributions to the Minecraft modding community!
 
 **Last Updated:** December 24, 2025
-**Modpack Version:** 0.9.31 (86 mods)
+**Modpack Version:** 0.9.32 (87 mods)
 
 ---
 
@@ -119,6 +119,7 @@ Many mod creators accept donations to support their work. Consider supporting yo
 | [Controlling](https://modrinth.com/mod/controlling) | jaredlll08 | 19.0.5 | Mar 30, 2025 | - |
 | [Just Zoom](https://modrinth.com/mod/just-zoom) | Keksuccino | 2.1.0 | Apr 25, 2025 | - |
 | [ItemSwapper](https://modrinth.com/plugin/itemswapper) | tr7zw | 0.8.5 | Dec 2025 | [Ko-fi](https://ko-fi.com/tr7zw) |
+| [Gamemode Unrestrictor](https://modrinth.com/mod/gamemode-unrestrictor) | Attie | 1.0.2 | Dec 2025 | - |
 
 ## Multiplayer Mods
 

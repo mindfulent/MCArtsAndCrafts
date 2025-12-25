@@ -2,6 +2,14 @@
 
 All notable changes to MCC will be documented in this file.
 
+## [0.9.32] - 2025-12-24
+
+### Added
+- **Gamemode Unrestrictor** v1.0.2 - Allows using gamemode commands (F3+F4) even when LAN/server restricts cheats (client-side)
+
+### Changed
+- Mod count increased from 86 to 87
+
 ## [0.9.31] - 2025-12-24
 
 ### Added
