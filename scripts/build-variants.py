@@ -93,6 +93,28 @@ STREAMCRAFT_REGISTRY: dict[str, dict[str, StreamCraftFile]] = {
             cf_file_id=7996545,
         ),
     },
+    "0.8.25+mc1.21.1": {
+        "windows": StreamCraftFile(
+            filename="streamcraft-0.8.25+mc1.21.1.jar",
+            sha1="b9dd7d132508566c2b3d1b0b1c42185941134b11",
+            cf_file_id=8124065,
+        ),
+        "linux": StreamCraftFile(
+            filename="streamcraft-0.8.25+mc1.21.1-linux.jar",
+            sha1="701dc95e1d2080f5c48bd31841a8f4ae316bffcc",
+            cf_file_id=8124066,
+        ),
+        "macos-arm64": StreamCraftFile(
+            filename="streamcraft-0.8.25+mc1.21.1-macos-arm64.jar",
+            sha1="92a93cb03065ab2af25e773d2257fde7832aa86d",
+            cf_file_id=8124068,
+        ),
+        "macos-x86_64": StreamCraftFile(
+            filename="streamcraft-0.8.25+mc1.21.1-macos-x86_64.jar",
+            sha1="2fd599a4c75dd012ec8865c8d0543c5ee8d1b816",
+            cf_file_id=8124069,
+        ),
+    },
 }
 
 

@@ -3,6 +3,16 @@
 All notable changes to TBA will be documented in this file.
 
 
+## [1.0.6] - 2026-05-22
+
+### Updated
+- **StreamCraft** 0.7.26 → 0.8.25 — major upgrade. The macOS/Linux native media stack was rewritten from scratch: JavaCV (FFmpeg/OpenCV/OpenBLAS) was dropped for purpose-built OS-native capture libraries, shrinking each per-platform JAR by 70–82%. Adds distance-based ("positional") screen-share audio on Display Blocks — volume fades with your distance from the screen, scaled to screen size. Wayland screen sharing now works on Linux. Also includes NeoForge view-angle culling fixes, macOS audio-sync fixes, and a refreshed "How It Works" screen. Sourced from CurseForge metadata across all four platforms (windows/linux/macos-arm64/macos-x86_64) — CurseForge approved the v0.8.25 files (project 1451729, file IDs 8124065/8124066/8124068/8124069), so this release goes straight to CF metadata with no Modrinth-override step.
+
+### Notes
+- **StreamCraft protocol version bumped 4 → 5.** Players still on TBA 1.0.5 (StreamCraft 0.7.26) will hit a StreamCraft protocol mismatch against a 1.0.6 server and lose webcam / screen-share / voice features — updating the modpack is required, not optional.
+- Mod count: 194 total (unchanged from 1.0.5 — StreamCraft version swap only).
+
+
 ## [1.0.5] - 2026-04-26
 
 ### Fixed
