@@ -21,6 +21,12 @@ TBA (TheBlock.Academy) is a Fabric 1.21.1 modpack for a community Minecraft serv
 ./packwiz.exe modrinth export             # Creates .mrpack for Prism/server
 ./packwiz.exe curseforge export           # Creates .zip for CurseForge App
 
+# Build + publish a release (multi-platform — see Deployment Workflow)
+python scripts/build-variants.py                              # Build 8 artifacts → dist/
+python scripts/publish-modrinth.py   --version X.Y.Z --changelog-file docs/release-notes-vX.Y.Z.md
+python scripts/publish-curseforge.py --version X.Y.Z --changelog-file docs/release-notes-vX.Y.Z.md
+# Add --dry-run to either publish script to preview metadata without uploading.
+
 # Server management (requires .env with credentials)
 python server-config.py                   # Interactive menu
 python server-config.py status            # Check server status
