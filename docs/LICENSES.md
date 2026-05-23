@@ -119,7 +119,6 @@ This document catalogs the licenses for all 80 mods included in the TBA modpack 
 | [Universal Graves](https://modrinth.com/mod/universal-graves) | LGPL-3.0 | Open source |
 | [Flan](https://github.com/Flemmli97/Flan) | **All Rights Reserved** | Check modpack permissions |
 | [Better Sleep](https://modrinth.com/mod/better-sleep) | MIT | Permissive |
-| [Fabricord](https://modrinth.com/mod/fabricord) | Apache-2.0 | Permissive |
 
 ### Seasons & Misc
 

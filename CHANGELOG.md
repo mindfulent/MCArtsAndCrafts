@@ -3,6 +3,18 @@
 All notable changes to TBA will be documented in this file.
 
 
+## [1.0.7] - 2026-05-22
+
+### Removed
+- **Fabricord** — removed `mods/fabricord.pw.toml` (4.2.1). The Discord ↔ server chat bridge, player join/leave/advancement announcements, and server-lifecycle messages now run through slashAI's new `@DeanBot` client (a second `discord.py` client in the slashAI process) and the theblockacademy backend (Pterodactyl WebSocket console parser + RCON writer). No functional change for players.
+- **AutoWhitelist** — removed `mods/autowhitelist.pw.toml` (1.3.3+1.21). The `/register <username>` slash command now lives on slashAI's DeanBot and calls the backend's `/mc/whitelist` endpoint (which validates the Discord ↔ MC link in the `users` table, then runs `whitelist add` over RCON). Auto-revoke on Discord-leave is preserved — slashAI's DeanBot listens for `on_member_remove` and calls backend `/mc/unwhitelist`, which both removes from whitelist and records the departure to a new `mc_audit` table.
+
+### Notes
+- Mod count: 192 total (-2 from 1.0.6).
+- See `slashAI/docs/DEPRECATE_FABRICORD.md` for the full split-architecture design.
+- **Hard cutover required**: Fabricord, AutoWhitelist, and slashAI's new DeanBot client all use the same Discord token. The instant slashAI brings up its DeanBot client, the mods lose their Discord Gateway connection. There is no parallel-run period possible — this release ships after the slashAI/backend cutover is confirmed working.
+
+
 ## [1.0.6] - 2026-05-22
 
 ### Updated

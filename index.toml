@@ -589,11 +589,6 @@ hash = "8a9d150fc3189d8b5fda9b1e13c91bdcdbd4d1477523f13a4e242e6637b4d81b"
 metafile = true
 
 [[files]]
-file = "mods/autowhitelist.pw.toml"
-hash = "070db28dc60f5d70f226038e34a639cb49385dfd2e0229b15f4aab0f20a51d51"
-metafile = true
-
-[[files]]
 file = "mods/axiomtool.pw.toml"
 hash = "6befc516d6748cf716d26c19fe5f566e590d66afe024ae1aaf8e7f69f5a9397e"
 metafile = true
@@ -881,11 +876,6 @@ metafile = true
 [[files]]
 file = "mods/fabric-seasons.pw.toml"
 hash = "286d2fb92fb551d877504eef812fe298d434c82928675bd847276cb81ecf3c17"
-metafile = true
-
-[[files]]
-file = "mods/fabricord.pw.toml"
-hash = "e9cdf7ca8cf7345a9b418adfd9295a0466f89d1291f141d18f718e773f794995"
 metafile = true
 
 [[files]]

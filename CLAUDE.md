@@ -153,7 +153,9 @@ Two export formats for different purposes:
 | `.mrpack` | `modrinth export` | Prism Launcher + Server | Full modpack including server-only mods |
 | `.zip` | `curseforge export` | CurseForge App | Excludes Modrinth-only mods |
 
-**Server-only mods** (in mrpack, not needed by clients): AutoWhitelist, Better Sleep, Fabricord, Ledger, Advanced Backups, LuckPerms
+**Server-only mods** (in mrpack, not needed by clients): Better Sleep, Ledger, Advanced Backups, LuckPerms
+
+**Note (v1.0.7+):** Fabricord and AutoWhitelist were removed; the Discord chat bridge and `/register` whitelist now run via slashAI's `@DeanBot` client + the theblockacademy backend. See `slashAI/docs/DEPRECATE_FABRICORD.md`.
 
 ## Server Disk Usage
 

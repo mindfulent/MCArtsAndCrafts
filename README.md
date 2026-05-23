@@ -2,11 +2,11 @@
   <img src="tba_banner.png" alt="TBA Logo" width="100%">
 </p>
 
-# TBA (TheBlock.Academy) v1.0.6
+# TBA (TheBlock.Academy) v1.0.7
 
 A curated Fabric 1.21.1 modpack for The Block Academy CMP, built with [Packwiz](https://packwiz.infra.link/) for easy version control and distribution.
 
-**194 mods total** — see [Mod Distribution](#mod-distribution) for details.
+**192 mods total** — see [Mod Distribution](#mod-distribution) for details.
 
 ## Features
 
@@ -158,8 +158,7 @@ A curated Fabric 1.21.1 modpack for The Block Academy CMP, built with [Packwiz](
 
 ### Discord Integration
 - **Simple Discord RPC** - Shows Minecraft activity in your Discord status (client-side)
-- **Fabricord** - Bridges server chat with Discord channel (server-side)
-- **AutoWhitelist** - Discord-based whitelist: `/register <username>` to join (server-side)
+- **Discord bridge** - Chat ↔ server, player events, and `/register` whitelist run via slashAI (`@DeanBot` client) + the theblockacademy backend; not a mod in this pack
 
 ### Bundled Shaders
 - **BSL v10.0** - High visual quality (enabled by default)
@@ -317,26 +316,9 @@ See [docs/BACKUP-STRATEGY.md](docs/BACKUP-STRATEGY.md) for backup and restore pr
 3. Set server jar to `mrpack4server-0.5.0.jar` in Bloom.host panel
 4. Start server - mods auto-download from GitHub
 
-### Fabricord Discord Setup
+### Discord Bridge Setup
 
-After first server start, configure Discord integration:
-
-1. **Create a Discord Bot:**
-   - Go to [Discord Developer Portal](https://discord.com/developers/applications/)
-   - Create a new application → Bot → Copy the token
-   - Enable "Message Content Intent" under Bot settings
-   - Invite bot to your server with Send Messages + Read Message History permissions
-
-2. **Get Channel IDs:**
-   - Enable Developer Mode in Discord (Settings → App Settings → Advanced)
-   - Right-click your chat channel → Copy ID
-   - (Optional) Right-click a console channel → Copy ID
-
-3. **Edit server config:**
-   - Location: `home/fabricord/config.yml` (in server root)
-   - Set your bot token and channel IDs in the YAML config
-
-4. **Restart the server**
+The Discord ↔ Minecraft bridge no longer lives in the modpack as of v1.0.7. The `@DeanBot` Discord client runs inside slashAI alongside the primary `@slashAI` client, and the theblockacademy backend handles Pterodactyl console parsing + RCON writes. See `slashAI/docs/DEPRECATE_FABRICORD.md` and `slashAI/.env.example` (`DEANBOT_TOKEN`, `MC_BRIDGE_CHANNEL_ID`) for setup.
 
 ## Mod Distribution
 
@@ -348,9 +330,7 @@ The modpack has two exports for different purposes:
 | `TBA-X.Y.Z.mrpack` | Modrinth | Prism Launcher + Server | 126 mods |
 
 **Server-only mods** (included in `.mrpack`, excluded from `.zip`):
-- **AutoWhitelist** - Discord `/register` command for whitelist
 - **Better Sleep** - Sleep voting for multiplayer nights
-- **Fabricord** - Bridges server chat ↔ Discord channel
 
 These run on the server only — players don't need them installed.
 
@@ -361,8 +341,8 @@ These run on the server only — players don't need them installed.
 | Side | Mods |
 |------|------|
 | **Client-only** | Better Third Person |
-| **Server-only** | AutoWhitelist, Better Sleep, Fabricord |
-| **Both** | Most mods (122 total) |
+| **Server-only** | Better Sleep |
+| **Both** | Most mods |
 
 ### Not Available for 1.21.1
 - **Create** - NeoForge only (no Fabric port)
