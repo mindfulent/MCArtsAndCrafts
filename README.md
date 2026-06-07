@@ -181,7 +181,7 @@ The modpack comes pre-configured with sensible defaults:
 ### For Players
 
 1. Download [Prism Launcher](https://prismlauncher.org/)
-2. Get the latest `.mrpack` from [Releases](https://github.com/mindfulent/TBA/releases)
+2. Get the latest `.mrpack` from [Releases](https://github.com/slashdaemon/TBA/releases)
 3. In Prism: **Add Instance** → **Import** → Select the `.mrpack`
 4. Allocate 4-6GB RAM (Edit Instance → Settings → Memory)
 5. **Get whitelisted:** Use `/register <your-minecraft-username>` in our Discord
@@ -211,7 +211,7 @@ C:\Users\{username}\AppData\Roaming\PrismLauncher\instances\TBA\minecraft
 
 ```bash
 # Clone the repository
-git clone https://github.com/mindfulent/TBA.git
+git clone https://github.com/slashdaemon/TBA.git
 cd TBA
 
 # Download Packwiz (Windows)

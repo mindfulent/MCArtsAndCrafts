@@ -34,7 +34,7 @@ mrpack4server looks for modpack configuration in this priority order:
   "version_id": "0.9.19",
   "display_name": "TBA",
   "display_version": "0.9.19",
-  "url": "https://github.com/mindfulent/TBA/releases/download/v0.9.19/TBA-0.9.19.mrpack",
+  "url": "https://github.com/slashdaemon/TBA/releases/download/v0.9.19/TBA-0.9.19.mrpack",
   "size": 1567913,
   "sha512": "66043d9cbe0c0a719a6b1c672cac29d6...",
   "whitelisted_domains": ["github.com", "objects.githubusercontent.com"],

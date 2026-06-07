@@ -963,7 +963,7 @@ def update_modpack_info(version, production=False, variant="linux"):
 
     target_name = "Bloom.host (production)" if production else "LocalServer"
     suffix = "" if variant == "windows" else f"-{variant}"
-    github_url = f"https://github.com/mindfulent/TBA/releases/download/v{version}/TBA-{version}{suffix}.mrpack"
+    github_url = f"https://github.com/slashdaemon/TBA/releases/download/v{version}/TBA-{version}{suffix}.mrpack"
     mrpack_file = os.path.join(SCRIPT_DIR, "dist", f"TBA-{version}{suffix}.mrpack")
     if not os.path.exists(mrpack_file):
         # Fall back to repo root for back-compat with releases built before scripts/build-variants.py.

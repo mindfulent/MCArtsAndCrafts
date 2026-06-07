@@ -337,7 +337,7 @@ config/bluemap/packs/zzz-reframed-compat/
 
 ## Credits
 
-Guide created for [TBA (TheBlock.Academy)](https://github.com/mindfulent/TBA) modpack.
+Guide created for [TBA (TheBlock.Academy)](https://github.com/slashdaemon/TBA) modpack.
 
 If you found this useful, consider supporting the mod developers:
 - **ReFramed** by Quilt Team - [Modrinth](https://modrinth.com/mod/reframed)
